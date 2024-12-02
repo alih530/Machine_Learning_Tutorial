@@ -24,12 +24,6 @@ The following libraries are required to run the notebook:
 - `seaborn`
 - `scikit-learn`
 
-You can install them using the following command:
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-```
-
 ## How to Run
 
 1. Clone the repository or download the notebook file.
@@ -52,8 +46,4 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## Acknowledgments
 
 This project is inspired by standard machine learning tutorials and documentation.
-
-## License
-
-This project is open-source and available under the MIT License.
 
