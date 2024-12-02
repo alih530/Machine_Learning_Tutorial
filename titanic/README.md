@@ -47,7 +47,6 @@ By using Logistic Regression, you can understand how individual features influen
 
 ---
 
-این متن را می‌توانید در جای مناسب فایل **Titanic.ipynb** قرار دهید. اگر تغییرات یا بخش دیگری نیاز به ویرایش داشت، اطلاع دهید!
 ## Libraries Used
 
 - matplotlib
