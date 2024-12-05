@@ -54,12 +54,8 @@ cancer = load_breast_cancer()
 ```
 
 ## How to Run
-1. Ensure you have Python installed.
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the notebooks in Jupyter or any compatible environment and run the cells.
+1. Ensure you have Python installed.```
+2. Open the notebooks in Jupyter or any compatible environment and run the cells.
 
 ## Outputs
 - **Performance Metrics**: Accuracy, confusion matrix, and classification reports.
