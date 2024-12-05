@@ -21,13 +21,6 @@ The notebook performs the following tasks:
 4. **Model Evaluation**  
    - Evaluates the model's accuracy on the test set.
 
-## Installation
-To run this project, you need to have the following libraries installed:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
 ## Dataset
 The dataset `advertising.csv` contains the following columns:
 - **Daily Time Spent on Site**: Time spent on the site by the user.
