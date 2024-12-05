@@ -42,6 +42,3 @@ We aim to predict the **Yearly Amount Spent** by a user using the following feat
 - **Model Coefficients**: Impact of each feature on the predicted amount spent.
 - **Performance Metrics**: MAE, MSE, and R² values.
 - **Visualizations**: Plots showing the relationships between features and the target variable.
-
-## License
-This project is licensed under the MIT License.
