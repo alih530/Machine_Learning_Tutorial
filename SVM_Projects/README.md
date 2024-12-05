@@ -35,6 +35,3 @@ This notebook demonstrates SVM on the Breast Cancer dataset.
 ## Outputs
 - **Performance Metrics**: Accuracy, confusion matrix, and classification reports.
 - **Visualizations**: Graphs and plots showcasing the data and model decisions.
-
-## License
-This project is licensed under the MIT License.
