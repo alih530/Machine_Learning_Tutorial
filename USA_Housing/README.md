@@ -46,11 +46,3 @@ Ensure you have the following Python libraries installed:
 ### Results
 
 The project demonstrates how Linear Regression can be applied to predict house prices. The model's accuracy and insights gained from the data analysis are detailed in the notebook.
-
-### Author
-
-This project was created as part of a data science learning exercise. If you have questions or suggestions, feel free to reach out.
-
----
-
-Enjoy experimenting with the data and improving the model!
