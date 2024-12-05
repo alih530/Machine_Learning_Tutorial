@@ -27,6 +27,3 @@ The goal of this project is to build predictive models to determine the likeliho
 
 ## Results
 The notebook provides visualizations, model performance metrics, and feature importance for predictive modeling.
-
-## License
-This project is provided under the MIT License.
