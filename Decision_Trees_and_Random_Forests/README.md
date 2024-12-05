@@ -30,5 +30,3 @@ This project focuses on exploring and implementing **Decision Trees** and **Rand
 - Trained models using decision trees and random forests.
 - Performance comparison and evaluation metrics of the models.
 
-## Author
-This project was developed by [Your Name].
