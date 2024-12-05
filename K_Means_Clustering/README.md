@@ -43,7 +43,3 @@ The following libraries are required to run the notebook:
 - The notebook demonstrates how scaling the data affects the clustering results.
 - It provides insights into how to choose the optimal number of clusters using the Silhouette Score.
 
-## Acknowledgments
-
-This project is inspired by standard machine learning tutorials and documentation.
-
