@@ -29,6 +29,3 @@ This project focuses on exploring and implementing the **K-Nearest Neighbors (KN
 ## Outputs
 - Trained models using the KNN algorithm.
 - Graphs and tables evaluating the model's performance.
-
-## Author
-This project was developed by [Your Name].
